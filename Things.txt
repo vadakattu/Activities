@@ -1,5 +1,4 @@
 Hello World!
-<<<<<<< HEAD
 
 5/17
 >Queens Race
@@ -7,7 +6,6 @@ Hello World!
 
 5/18
 > Race with Will - Roosevelt Island
-> 3pm Staten Island Philharmonic
 > Shuffleboard
 
 5/19
@@ -32,14 +30,13 @@ Other things
 > Restaurants
 > Wall Street
 > Cooking Class
-> Class Pass - Dance lesson
+> Class Pass - Dance lesson, aerial yoga
 > Galaxy Bagels
 > Alec's restaurant
-
+> Kayaking
 
 
 
 =======
 >> who loves me?
 DRONES
->>>>>>> d80a68da466f07c5ba32174b1fe896ab6f7f9b26
