@@ -1,4 +1,5 @@
 Hello World!
+<<<<<<< HEAD
 
 5/17
 >Queens Race
@@ -38,3 +39,7 @@ Other things
 
 
 
+=======
+>> who loves me?
+DRONES
+>>>>>>> d80a68da466f07c5ba32174b1fe896ab6f7f9b26
